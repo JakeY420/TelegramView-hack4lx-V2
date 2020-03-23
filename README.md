@@ -2,6 +2,10 @@
 
 **********************************************************
 
+Tutorial :: https://www.youtube.com/watch?v=LkjJCqc2wYM
+
+
+**********************************************************
 ![Locations](https://github.com/attakercyebr/TelegramView-hack4lx-V2/blob/master/00.png) 
 
 **********************************************************
