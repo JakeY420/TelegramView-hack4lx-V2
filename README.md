@@ -2,31 +2,25 @@
 
 **********************************************************
 
-![Locations](https://github.com/attakercyebr/haxk4lx_toolkit/blob/master/hack4l1x.png) 
+![Locations](https://github.com/attakercyebr/TelegramView-hack4lx-V2/blob/master/00.png) 
 
 **********************************************************
-![Locations](https://github.com/attakercyebr/haxk4lx_toolkit/blob/master/hack4lx.png) 
-
-**********************************************************
-
-![Locations](https://github.com/attakercyebr/haxk4lx_toolkit/blob/master/hack4lx2.png) 
+![Locations](https://github.com/attakercyebr/TelegramView-hack4lx-V2/blob/master/000.png) 
 
 **********************************************************
 
-![Locations](https://github.com/attakercyebr/haxk4lx_toolkit/blob/master/hack4lx3.png) 
+![Locations](https://github.com/attakercyebr/TelegramView-hack4lx-V2/blob/master/0000.png) 
 
 **********************************************************
-![Locations](https://github.com/attakercyebr/haxk4lx_toolkit/blob/master/hack4lx4.png) 
-
-**********************************************************
-# title           :haxk4lx_toolkit.py
+# title           :TelegramView-hack4lx-V2
 # description     :👊 ʍ4ղíƒҽՏԵ0 ϲվҍҽɾ ՏҽϲմɾíԵվ Եҽɑʍ™💪
 # author          :rainboy1 | erfan4lx | Vampire4lx
 # date            :2020 March
-# version         :1.1.0
-# usage           :python haxk4lx_toolkit.py
-# channel          :t.me/hack4lxCombo
-# python_version  :2.7.6
+# version         :2.0.0
+# usage           :TelegramView-hack4lx-V2.py
+# channel         :t.me/hack4lxCombo
+# python_version  :2.7.+
+# Old version     :https://github.com/attakercyebr/TelegramView-hack4lx
 
 **********************************************************
 
